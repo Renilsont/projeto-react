@@ -1,0 +1,122 @@
+body, #root {
+  height: 100%;
+  margin: 0 auto;
+  background-color: rgb(247, 249, 250);
+}
+
+#root{
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+main{
+  padding: 0;
+  margin: 0;
+
+}
+
+header{
+  background-color: rgb(13, 113, 252);
+  margin: auto;
+  color: white;
+}
+
+h2{
+  display: flex;
+  color: black;
+}
+
+h3, h4{
+  display: flex;
+  margin: auto;
+  color: black;
+}
+
+.carrinho{
+  background-color: rgb(150, 157, 160);
+}
+
+.carrinho-item{
+  background-color: rgb(247, 249, 250);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.1rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.item-img{
+  width: 80px;
+  height: auto;
+  border-radius: 4px;
+  margin-right: 1rem;
+}
+
+.produtos{
+  display: flex;
+  width: 100%;
+  gap: 1rem;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  background-color: white;
+}
+
+.delete{
+  display: flex;
+  justify-content: end;
+}
+
+.delete button{
+  background-color: rgb(255, 193, 5);
+  color: white;
+  border-radius: 5px;
+  padding: 8px 12px;
+}
+
+.valor-produto{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  color: black;
+}
+
+.acoes{
+  border-radius: 6px;
+  border: 1px solid green;
+   box-shadow: 0 4px 8px green;
+  color: white;
+  margin: auto;
+  width: 200px;
+}
+
+.acoes button{
+  background-color: white;
+  color: green;
+}
+
+.limpar{
+  display: flex;
+  justify-content: end;
+  background-color: rgb(219, 53, 69);
+}
+
+.lista{
+  color: black;
+}
+
+.produto-info{
+  display: flex;
+  align-items: flex-start;
+}
+
+.produto-info .avaliacao, .produto-info .valor{
+  display: block;
+}
+
+
+footer{
+  background-color: rgb(13, 113, 252);
+}
