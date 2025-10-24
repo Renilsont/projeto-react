@@ -1,0 +1,8 @@
+.nav-bar {
+    background-color: #0a44ff;
+    padding: 5px 100px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
