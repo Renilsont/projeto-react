@@ -1,0 +1,14 @@
+{
+  "produtos": [
+    { "id": 1, "nome": "Camiseta Oversized", "preco": 79.90, "quant": 10, "img": "https://placehold.co/300x200" },
+    { "id": 2, "nome": "Tênis Esportivo", "preco": 249.99, "quant": 10, "img": "https://placehold.co/300x200" },
+    { "id": 3, "nome": "Mochila Casual", "preco": 159.00, "quant": 10, "img": "https://placehold.co/300x200" },
+    { "id": 4, "nome": "Boné Street", "preco": 59.90, "quant": 10, "img": "https://placehold.co/300x200" },
+    { "id": 5, "nome": "Relógio Digital", "preco": 199.99, "quant": 10, "img": "https://placehold.co/300x200" },
+    { "id": 6, "nome": "Fone Bluetooth", "preco": 299.90, "quant": 10, "img": "https://placehold.co/300x200" },
+    { "id": 7, "nome": "Jaqueta Jeans", "preco": 189.00, "quant": 10, "img": "https://placehold.co/300x200" },
+    { "id": 8, "nome": "Óculos de Sol", "preco": 129.90, "quant": 10, "img": "https://placehold.co/300x200" },
+    { "id": 9, "nome": "Carteira de Couro", "preco": 89.90, "quant": 10, "img": "https://placehold.co/300x200" },
+    { "id": 10, "nome": "Pulseira Minimalista", "preco": 49.90, "quant": 10, "img": "https://placehold.co/300x200" }
+  ]
+}
