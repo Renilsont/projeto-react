@@ -1,14 +1,14 @@
 {
-  "produtos": [
-    { "id": 1, "nome": "Camiseta Oversized", "preco": 79.90, "quant": 10, "img": "https://placehold.co/300x200" },
-    { "id": 2, "nome": "Tênis Esportivo", "preco": 249.99, "quant": 10, "img": "https://placehold.co/300x200" },
-    { "id": 3, "nome": "Mochila Casual", "preco": 159.00, "quant": 10, "img": "https://placehold.co/300x200" },
-    { "id": 4, "nome": "Boné Street", "preco": 59.90, "quant": 10, "img": "https://placehold.co/300x200" },
-    { "id": 5, "nome": "Relógio Digital", "preco": 199.99, "quant": 10, "img": "https://placehold.co/300x200" },
-    { "id": 6, "nome": "Fone Bluetooth", "preco": 299.90, "quant": 10, "img": "https://placehold.co/300x200" },
-    { "id": 7, "nome": "Jaqueta Jeans", "preco": 189.00, "quant": 10, "img": "https://placehold.co/300x200" },
-    { "id": 8, "nome": "Óculos de Sol", "preco": 129.90, "quant": 10, "img": "https://placehold.co/300x200" },
-    { "id": 9, "nome": "Carteira de Couro", "preco": 89.90, "quant": 10, "img": "https://placehold.co/300x200" },
-    { "id": 10, "nome": "Pulseira Minimalista", "preco": 49.90, "quant": 10, "img": "https://placehold.co/300x200" }
-  ]
+    "produtos": [
+        { "id": 1, "nome": "Camiseta Oversized", "preco": 79.90, "quant": 10, "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQAlAMBIgACEQEDEQH/xAAcAAEAAwADAQEAAAAAAAAAAAAAAQIIAwYHBQT/xABAEAACAQMCAwUEAw0JAAAAAAAAAQIDBBEFBiExQQcSUWGBEyJxkTJywRY2QlJkc3WCoaKxsrMUFSMkNFSj0dL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APcQAAPlbg3Dpe3LJ3es3lO2pN4gnxlN+EYri38D9ep39DTNPub+8moW9tSlVqSfRJZMq7s3Bdbo1uvqd5KaU3ijSk8qjDpFLp5+LyB6NuDtwryc6W3tNhCPKNxeNt/FQX2s8y1/c2sbirqrq9/WuO6+9CEniEH5RXBfLJ8ySKEEZJWcBFkBanKEfp0I1OPFuTTx4HI69vjhp1NPxVapw+cji4eBDS8Cismuaik/JlSzRUDns7u4s7incWlapQr05ZhVpy7sovyZ6bt3tp1my7lLW7WlqFCKS9pD/Drf+ZfJfE8s5DvNkGp9qdoO390T9jY3TpXmMu1uI9yf6vSXo2dqyYxpznTnGpCcoTi04yi8OL8U+aZo7sh3nU3RokrbUqqlqljiNSXWtD8GePHo/NeZR6CAAAAAAFak404SnOSjGKzKTeEl1YHk/b5uJW+nW23qE37a7xWr46U4v3U/jJfus8NzwPub2157l3Ne6om/YVZ92gmsNU48I/Pn6nwuhAKtEgCmAWIAZIyTghgGVLFcARzLJEpAA2fe2JuCe2d0WOpd9qipezuF40pcJfLg/Q+BJe6R0S+YG0YSU4qUWmmsprqix0Lsb3Etc2lStq0+9d6bi3q5eW4pe5L1XXxTO+lAAADz7tq3C9H2m7O3m43WpS9hHDw408ZnL5YXxkegPkZl7WNw/dBvG5dGXetLH/LUPPH05essr4JAdMk+L5Ir0wG+BHgQWRJCAEkAAASAIwRglgCAGEBFT6JSPQtV+gRFfRA7x2SblW3d40IVpd2z1DFtWy+EW37kvSTx+szTSeTF9Tgk02n0afI1R2Z7h+6XaFle1ZJ3VNexuPzkeGfVYfqUdpAAHVe0vcD25s++u6U+7dVI+wt/Kc+GfRZfoZbz1befF9T0ftw3L/e244aVbTza6bmMsPhKs/pP0WF8zzifLBBSfIqunwJqP3StN8EByggkAwiueJKAsQAAAIAdBElFeoEVPokQ5lpLKIhzAtLij0vsD3D/AHfuStotepijqMO9Tz0qwWf2xz8keapcDksLyvpeo21/avFa3qxqQ+KecevL1KNlLkD8Gharbazo9nqdrLNG6pRqRzzWVxT808okDzLtl2PX1GNHWNC0+jOtT7zvY0IYq1lwxLH4WMPz49cHhtRNSaaw08NPmn4PzNms6hvLs80PdSlVr0XaX7XC8t4pTf1lyl6/NAZaqsmkvdidq3r2f67tWcql3bu5sel5bxbgvrLnH14eZ1akvcj8CC4fIESAglMhhAXAIAdQQiQGSGSAI6Min1JfL0P36Foup63cf2fSLCveVc8VSjwj9aT4L1aA/LE/Tpml3us3kLPS7WpdXMuKp0llrzfRLzfA9b2v2Jv3K+571+P9ktHjPlKf/SXxPWdG0fTtEtFaaVZ0bWhH8GnHGX4t9X5so6/2cbavdsbWoadfXcp3DnKrOMMONJy49xN88ePjkHbwAAAFJwjUi4zSlGSw4tZTMvdqtjb6dv8A1e2s7enb0FKlOFOlFRis0oN4S5cW2akM19uEO52h3cvx7ajL91r7AOhESfuskrPlggNkoo3gsmBchkkMBEkqiwAAAfU2xa0L7cukWl3T9pb3F/QpVYcu9GVRRa9UzWGmaZY6TaRtdMtKFrbx5U6MFFfsMqbN++/Qf0pa/wBWJrcoAAAAAAAAGbe3N57Qa6/JaP2mkjNXbhOMu0S7S5wtqMX8e7n7QOhIifQlPiRLmiCswhMiHMDlQkV6lmBCJRVcy4AkglAfY2d9+GgfpS1/qxNbmSNn4W79Bb6ana/1Ymt0UAAAAAAAADL3a889pOtt/jUl/wANM1CZV7Ua3tu0HXZ88XKhn6sIr7AOrdQ+YXMPmBSYhzEyIgcnUsyi5l2QULx5FWSgLExICA+rtmapbl0acniMdQt2/SrE12Y60yXd1Oyl+Lc0n++jYpQAAAAAAAAMl9oDzvjX3+X1f5jWhkjf3DfGvp/7+r/MB8NBkIkDjmVRaZVAckTkZSJyEHG+ZKEuYiBdDBBZAc9lwvbX8/T/AJkbIMbWrxdUfzkf4o2PD6EfgUWAAAAAAAAMk7+4763B+kKv8SQB8FBgAccyFyAA5InL0QAFJcyoAHIiUAQctr/qqL8KkX+1GyKbzTi/FIAosAAAAA//2Q==" },
+        { "id": 2, "nome": "Tênis Esportivo", "preco": 249.99, "quant": 10, "img": "/images/Tenis_Esportivo.jpg" },
+        { "id": 3, "nome": "Mochila Casual", "preco": 159.00, "quant": 10, "img": "/images/mochila_casual.jpg" },
+        { "id": 4, "nome": "Boné Street", "preco": 59.90, "quant": 10, "img": "/images/bone_stret.jpg" },
+        { "id": 5, "nome": "Relógio Digital", "preco": 199.99, "quant": 10, "img": "/images/relogio_digital.jpg" },
+        { "id": 6, "nome": "Fone Bluetooth", "preco": 299.90, "quant": 10, "img": "/images/fone_bluetho.jpg" },
+        { "id": 7, "nome": "Jaqueta Jeans", "preco": 189.00, "quant": 10, "img": "/images/jaqueta_jeans.jpg" },
+        { "id": 8, "nome": "Óculos de Sol", "preco": 129.90, "quant": 10, "img": "/images/oculos_dsol.jpg" },
+        { "id": 9, "nome": "Carteira de Couro", "preco": 89.90, "quant": 10, "img": "/images/carteira.jpg" },
+        { "id": 10, "nome": "Pulseira Minimalista", "preco": 49.90, "quant": 10, "img": "/images/pulseira.jpg" }
+    ]
 }
